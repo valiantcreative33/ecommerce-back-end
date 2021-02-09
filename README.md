@@ -35,10 +35,10 @@ Once done so and have cloned or forked from my repo, be sure to source your sche
 Utilizing Sequelize, this application gives a developer the ability to quickly and effectively create common eCommerce data structures, such as categories, products, and product tags. With ORM and Sequelize, all of this can be accomplished with common Javscript and is easily iterable to scale quickly.
 
 ## License
-This application is under the MIT license.
+This application is under the [MIT](https://opensource.org/licenses/ISC) license.
 
 ## Video Demo
-A video demonstration of the application can be found on [YouTube]().
+A video demonstration of the application can be found on [YouTube](https://youtu.be/y5enAIfIrh0).
 
 ## Screenshot
 ![Screenshot of the Employee Tracker's CLI](./assets/mockup.png)
